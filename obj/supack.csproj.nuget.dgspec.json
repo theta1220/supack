@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/apple/git-octopus/supack/supack.csproj": {}
+  },
+  "projects": {
+    "/Users/apple/git-octopus/supack/supack.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/apple/git-octopus/supack/supack.csproj",
+        "projectName": "supack",
+        "projectPath": "/Users/apple/git-octopus/supack/supack.csproj",
+        "packagesPath": "/Users/apple/.nuget/packages/",
+        "outputPath": "/Users/apple/git-octopus/supack/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/apple/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.osx-x64",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.osx-x64",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "osx-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

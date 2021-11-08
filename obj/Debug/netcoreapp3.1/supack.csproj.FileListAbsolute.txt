@@ -1,0 +1,11 @@
+/Users/apple/git-octopus/supack/bin/Debug/netcoreapp3.1/supack
+/Users/apple/git-octopus/supack/bin/Debug/netcoreapp3.1/supack.deps.json
+/Users/apple/git-octopus/supack/bin/Debug/netcoreapp3.1/supack.runtimeconfig.json
+/Users/apple/git-octopus/supack/bin/Debug/netcoreapp3.1/supack.runtimeconfig.dev.json
+/Users/apple/git-octopus/supack/bin/Debug/netcoreapp3.1/supack.dll
+/Users/apple/git-octopus/supack/bin/Debug/netcoreapp3.1/supack.pdb
+/Users/apple/git-octopus/supack/obj/Debug/netcoreapp3.1/supack.csprojAssemblyReference.cache
+/Users/apple/git-octopus/supack/obj/Debug/netcoreapp3.1/supack.AssemblyInfoInputs.cache
+/Users/apple/git-octopus/supack/obj/Debug/netcoreapp3.1/supack.AssemblyInfo.cs
+/Users/apple/git-octopus/supack/obj/Debug/netcoreapp3.1/supack.dll
+/Users/apple/git-octopus/supack/obj/Debug/netcoreapp3.1/supack.pdb
